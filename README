@@ -1,5 +1,7 @@
-SilentPostgres
+SilentPostgres (for rails 3.2)
 ==============
+
+NOTE: THIS FORK IS FOR RAILS 3.2.  See original here: https://github.com/dolzenko/silent-postgres
 
 Silences internal diagnostic messages from postgresql connection adapter.
 
